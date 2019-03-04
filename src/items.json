@@ -1,0 +1,23 @@
+[
+    {
+      "id":"1",
+      "name":"Bread",
+      "quantity":"200",
+      "price":"35",
+      "description":"food you eat"
+    },
+    {
+        "id":"2",
+        "name":"Milk",
+        "quantity":"100",
+        "price":"5",
+        "description":"food you drink"
+      },
+      {
+        "id":"3",
+        "name":"Cheerios",
+        "quantity":"600",
+        "price":"45",
+        "description":"food you mix with milk"
+      }
+]
